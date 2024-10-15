@@ -311,7 +311,7 @@ warp_plus() {
 # Menu
 menu() {
     clear
-    echo -e "${green}By --> Peyman * Github.com/Ptechgithub * ${rest}"
+    echo -e "${green}By --> JsonScript * Github.com/Json-Script * ${rest}"
     echo ""
     echo -e "${yellow}❤️Github.com/${cyan}bepass-org${yellow}/warp-plus❤️${rest}"
     echo -e "${purple}*********************************${rest}"
